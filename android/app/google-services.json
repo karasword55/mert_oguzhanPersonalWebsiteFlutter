@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62753469944",
+    "project_id": "mertoguzhan-5d2de",
+    "storage_bucket": "mertoguzhan-5d2de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62753469944:android:87f37b0d55a4a0edf9120d",
+        "android_client_info": {
+          "package_name": "com.example.mert_oguzhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62753469944-is4i4oubjne5bfr1btm3ivd0gl559j7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD3Ab_WmWHYqUVi7OmWG8rYpf9pjON_PY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62753469944-is4i4oubjne5bfr1btm3ivd0gl559j7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
